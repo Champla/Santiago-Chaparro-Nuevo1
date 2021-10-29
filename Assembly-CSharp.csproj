@@ -57,6 +57,7 @@
     <Compile Include="Assets\Script-Vector\Segundovecotres.cs" />
     <Compile Include="Assets\Scrip_spawn\Spawner.cs" />
     <Compile Include="Assets\Sricpt-project\Walk.cs" />
+    <Compile Include="Assets\Ejercicio 22.10\CharcterMove.cs" />
     <Compile Include="Assets\Script-Vector\TecerVector.cs" />
     <Compile Include="Assets\BlockyCustomCharacter\DemoAnimationScript.cs" />
     <Compile Include="Assets\Scrip_spawn\TimeSpawn.cs" />
@@ -65,7 +66,7 @@
     <Compile Include="Assets\Sricpt-project\EnemyAI.cs" />
     <Compile Include="Assets\Scripit animales\EjecutorDeAnimales.cs" />
     <Compile Include="Assets\Scripit animales\Animalbase.cs" />
-    <Compile Include="Assets\Ejercicio 22.10\CharcterMove.cs" />
+    <Compile Include="Assets\Ejercicio 22.10\Pies.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
