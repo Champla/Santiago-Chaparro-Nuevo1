@@ -8,14 +8,14 @@ public class Walk : MonoBehaviour
     NavMeshAgent agent;
     Animator anim;
 
-    private void Start()
+     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
         anim = GetComponent<Animator>();
 
     }
 
-    private void Update()
+    void Update()
     {
         if (Input.GetMouseButtonDown(0)) 
         {
@@ -29,4 +29,7 @@ public class Walk : MonoBehaviour
             }
         }
     }
+
+   
+
 }
